@@ -1,6 +1,4 @@
-<h1>Israel</h1>
 
-https://en.wikipedia.org/wiki/List_of_television_channels_in_Israel
 
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
